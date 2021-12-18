@@ -13,3 +13,11 @@ Like a name suggests, it is way to make less steps when creating CRUD within any
 4. Proper entry ( ```Route::resource()```) in app/routes.php
 5. Adequate views for index(), create(), show() and edit() methods of controller (AdminLTE or Twitter Bootstrap powered)
 6. OPTIONALY: Adequate positions in AdminLTE menu (using jeroennoten/Laravel-AdminLTE)
+
+Next I want to add that JSON file generator, based on asked questions.
+
+# Why is Laravel Quick CRUD usefull?
+If you creating project in Laravel, especially if you need to setup one from scratch, you must know how long it take to prepare basic functionality. With Laravel Quick CRUD you can make that part much quicker, and focus on more advanced elements. For some projects it can almost make you ready for work application. All of that in about 5 minutes if you already know how your database entities should work.
+
+# How to get started?
+
