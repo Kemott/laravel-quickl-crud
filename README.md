@@ -10,6 +10,6 @@ Like a name suggests, it is way to make less steps when creating CRUD within any
    - GET edit($id) for showing form to editing the entry
    - PUT update($id) for saving changes in database
    - DELETE destroy($id) for removing entry from database
-4. Proper entry (Route::resource()) in app/routes.php
+4. Proper entry ( ```Route::resource()```) in app/routes.php
 5. Adequate views for index(), create(), show() and edit() methods of controller (AdminLTE or Twitter Bootstrap powered)
 6. OPTIONALY: Adequate positions in AdminLTE menu (using jeroennoten/Laravel-AdminLTE)
